@@ -3,8 +3,7 @@ import React, { Fragment } from 'react';
 
 const Header = () => {
     return(
-        <Fragment>
-            
+        <Fragment>            
             <nav className="navbar navbar-expand-lg">
                 <div className="container-fluid">
                     <Link className="navbar-brand" to='/'>React New Project</Link>

@@ -8,7 +8,7 @@ const About = () => {
 return (
     <Layout>
         <SEO 
-        title='About Us Page Title'
+        title='About Us Page Title New'
         description='About Us page description is this'
         keywords='About, about New, About Main'
         />
