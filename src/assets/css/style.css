@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700;900&display=swap');
+
+body{
+    font-family: 'Roboto', sans-serif;
+    font-size: 100%;
+    line-height: 1.5;
+    color:#212121;
+}
+
+.coffee-icon{
+    color:red;
+    font-size: 1.5;
+}
+
+a[aria-current]{
+    color:red;
+}
